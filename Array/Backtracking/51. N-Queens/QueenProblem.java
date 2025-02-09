@@ -70,7 +70,7 @@ class QueenProblem{
             }
             newBoard.add(str);
         }
-        allBoards.add(newBoard);
+        allBoards.add(newBoard);;
     }
     static List<List<String>> queens(int n){
         List<List<String>> allBoards = new ArrayList<>();
