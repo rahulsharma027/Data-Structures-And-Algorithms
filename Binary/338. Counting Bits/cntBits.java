@@ -18,4 +18,4 @@ class cntBits{
             System.out.print(arr[i] + " ");
         }
     }
-}}
+}
