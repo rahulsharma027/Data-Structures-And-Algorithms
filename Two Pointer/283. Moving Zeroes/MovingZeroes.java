@@ -9,7 +9,7 @@ class MovingZeroes{
                 left++;
             }
         }
-        return arr
+        return arr;
     }
    public static void main(String[] args) {
         int[] arr = {0, 1, 9, 8, 4, 0, 0, 2, 7, 0, 6, 0, 9};
